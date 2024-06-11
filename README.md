@@ -1,24 +1,22 @@
 # 📑 김희주 portfolio.zip
 
 > 김희주(Heeju Kim) - beetnalhee 포트폴리오
-
-
-
-         
-
-
+</br>
+</br>
 
 # 👋 Intro
 > 안녕하세요! **"문제해결을 통해 더 나은것을 추구하는"** 김희주입니다.
 > 6개월간 Java풀스택 과정을 통해, 백엔드 개발자 역량을 길렀습니다.
 > 꾸준히 공부하고 발전하는 모습 보여드리겠습니다.
 
+</br>
 
 # 🗂 Projects
 > 6개월간의 프로젝트를 보실 수 있습니다
 > semi-final 프로젝트로, mvc model1 을 활용한 쇼핑몰을 제작하였습니다.
 > final 프로젝트로는, 고령층을 위한 커뮤니티 사이트를 제작하였습니다.
 > 그 외의 예제도 살펴보실 수 있습니다.
+</br>
 
 ## 1. 후반전(second half)
 > 고령층을 위한 커뮤니티 사이트(팀프로젝트)
@@ -60,9 +58,17 @@
 
 ## 7. AMS(Account Management System)
 > 계좌생성,삭제, 입금, 출금, 마이너스통장 기능 구현 
->  * 개발기간 : 
+>  * 개발기간 : 2024.01.10. - 2024.02.12.
 >  * Language : Java
 >
-
 [프로젝트 상세보기](https://github.com/beetnalhee/AMS  "AMS portfolio")
+
+## 7-1. GUI AMS(Account Management System) 
+> 계좌생성,삭제, 입금, 출금, 마이너스통장 기능 구현
+> 
+> **유효성 검사** 기능 추가 
+>  * 개발기간 : 2024.01.29. - 2024.02.02.
+>  * Language : Java
+> 
+[프로젝트 상세보기](https://github.com/beetnalhee/AMS_GUI "AMSGUI portfolio")
 
