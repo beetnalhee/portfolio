@@ -24,10 +24,11 @@
 >  * 역할 : 채팅 기능 구현
 > ### Back-end
 >  * Language : Java
->  * Skill : Spring-boot, Spring, Thymeleaf, Mybatis, Oracle(sql), junit
+>  * Skill : Spring-boot, Spring, Thymeleaf, Mybatis, Oracle(sql), junit, WebSocket
 > ### Front-end
 >  * Language : javascript
-
+> 
+[프로젝트 상세보기](https://github.com/beetnalhee/project_secondHalf "project_secondHalf")
 
 ## 2. 밀리미터(mealimeter)
 > 밀키트 쇼핑몰(팀프로젝트)
@@ -35,10 +36,11 @@
 >  * 역할 : 리뷰기능 구현, db구축 
 > ### Back-end
 >  * Language : Java
->  * Skill : jsp, Apache Tomcat, Oracle(sql)
+>  * Skill : jsp, ApacheTomcat, Oracle(sql)
 > ### Front-end
 >  * Language : javascript, jsp
-
+> 
+[프로젝트 상세보기](https://github.com/beetnalhee/mealimeter_shopping_mall "mealimeter")
 
 ## 3. 게시판
 > 게시글 작성, 상세보기, 수정, 삭제가 가능한 게시판 기능 구현 
