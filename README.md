@@ -43,8 +43,8 @@
 [프로젝트 상세보기](https://github.com/beetnalhee/mealimeter_shopping_mall "mealimeter")
 
 ## 3. 게시판
-> 게시글 작성, 상세보기, 수정, 삭제가 가능한 게시판 기능 구현 
->  * 개발기간 : 
+> 회원가입, 로그인, 게시글 작성, 상세보기, 댓글, 수정, 삭제가 가능한 게시판 기능 구현 
+>  * 개발기간 : 2024.04.01 ~ 04.03. (3일)
 > ### Back-end
 >  * Language : Java
 >  * Skill : jsp, ApacheTomcat, sql(oracle)
