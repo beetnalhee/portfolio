@@ -51,6 +51,9 @@
 > ### Front-end
 >  * Language : javascript
 >  * Skill : bootstrap
+>
+> [프로젝트 상세보기](https://github.com/beetnalhee/board "board")
+
 
 ## 4. 학생 성적관리 프로그램 
 > Student Score Management System
