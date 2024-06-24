@@ -20,7 +20,7 @@
 
 ## 1. 후반전(second half)
 > 고령층을 위한 커뮤니티 사이트(팀프로젝트)
->  * 개발기간 : 2024.05.13. - 06.07. (4주)
+>  * 개발기간 : 2024.05.13. ~ 06.07. (4주)
 >  * 역할 : 채팅 기능 구현
 > ### Back-end
 >  * Language : Java
@@ -73,14 +73,14 @@
 
 ## 6. 자바 프로그램을 이용한 통신프로그램 
 > Java Socket을 이용한 통신프로그램
->  * 개발기간 :
+>  * 개발기간 : 2024.02.13 ~ 02.16. (4일)
 >  * Language : Java
 >
 > [프로젝트 상세보기](https://github.com/beetnalhee/Java_Socket  "Java_Socket")
 
 ## 7. AMS(Account Management System)
 > 계좌생성,삭제, 입금, 출금, 마이너스통장 기능 구현 
->  * 개발기간 : 2024.01.10. - 02.12.
+>  * 개발기간 : 2024.01.10. ~ 02.12.
 >  * Language : Java
 >
 [프로젝트 상세보기](https://github.com/beetnalhee/AMS  "AMS portfolio")
@@ -89,7 +89,7 @@
 > 계좌생성,삭제, 입금, 출금, 마이너스통장 기능 구현
 > 
 > **유효성 검사** 기능 추가 
->  * 개발기간 : 2024.01.29. - 02.02.
+>  * 개발기간 : 2024.01.29. ~ 02.02.
 >  * Language : Java
 > 
 [프로젝트 상세보기](https://github.com/beetnalhee/AMS_GUI "AMSGUI portfolio")
