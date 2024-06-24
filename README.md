@@ -26,7 +26,7 @@
 >  * Language : Java
 >  * Skill : Spring-boot, Spring, Thymeleaf, Mybatis, Oracle(sql), junit, WebSocket
 > ### Front-end
->  * Language : javascript
+>  * Language : JavaScript
 > 
 [프로젝트 상세보기](https://github.com/beetnalhee/project_secondHalf "project_secondHalf")
 
@@ -38,7 +38,7 @@
 >  * Language : Java
 >  * Skill : jsp, ApacheTomcat, Oracle(sql)
 > ### Front-end
->  * Language : javascript, jsp
+>  * Language : JavaScript, jsp
 > 
 [프로젝트 상세보기](https://github.com/beetnalhee/mealimeter_shopping_mall "mealimeter")
 
@@ -49,7 +49,7 @@
 >  * Language : Java
 >  * Skill : jsp, ApacheTomcat, sql(oracle)
 > ### Front-end
->  * Language : javascript
+>  * Language : JavaScript
 >  * Skill : bootstrap
 >
 > [프로젝트 상세보기](https://github.com/beetnalhee/board "board")
@@ -58,7 +58,7 @@
 ## 4. 학생 성적관리 프로그램 
 > Student Score Management System
 >  * 개발기간 : 2024.03.24 ~ 03.29. (5일)
->  * Language : javascript
+>  * Language : JavaScript
 >  * Skill : bootstrap
 >
 > [프로젝트 상세보기](https://github.com/beetnalhee/Student_Management_System  "sms")
