@@ -47,7 +47,7 @@
 >  * 개발기간 : 
 > ### Back-end
 >  * Language : Java
->  * Skill : jsp, Oracle(sql)
+>  * Skill : jsp, ApacheTomcat, sql(oracle)
 > ### Front-end
 >  * Language : javascript
 >  * Skill : bootstrap
