@@ -57,21 +57,26 @@
 
 ## 4. 학생 성적관리 프로그램 
 > Student Score Management System
->  * 개발기간 :  
->  * Language : Java, javascript
+>  * 개발기간 : 2024.03.24 ~ 03.29. (5일)
+>  * Language : javascript
 >  * Skill : bootstrap
->    
+>
+> [프로젝트 상세보기](https://github.com/beetnalhee/Student_Management_System  "sms")
+  
 ## 5. Things to do 리스트 
 > 할 일 리스트 추가, 삭제, 수정 기능 구현
->  * 개발기간 :  
+>  * 개발기간 : 2024.04.26 ~ 04.28. (3일)
 >  * Language : Java
 >  * Skill : React
->    
+>
+> [프로젝트 상세보기](https://github.com/beetnalhee/TODO  "TODO_list")
+
 ## 6. 자바 프로그램을 이용한 통신프로그램 
 > Java Socket을 이용한 통신프로그램
 >  * 개발기간 :
 >  * Language : Java
 >
+> [프로젝트 상세보기](https://github.com/beetnalhee/Java_Socket  "Java_Socket")
 
 ## 7. AMS(Account Management System)
 > 계좌생성,삭제, 입금, 출금, 마이너스통장 기능 구현 
