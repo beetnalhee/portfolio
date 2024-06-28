@@ -36,7 +36,7 @@
 >  * 역할 : 리뷰기능 구현, db구축 
 > ### Back-end
 >  * Language : Java
->  * Skill : jsp, ApacheTomcat, Oracle(sql)
+>  * Skill : ApacheTomcat, Oracle(sql)
 > ### Front-end
 >  * Language : JavaScript, jsp
 > 
