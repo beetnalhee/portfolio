@@ -2,14 +2,43 @@
 
 > 김희주(Heeju Kim) - beetnalhee 포트폴리오
 </br>
-</br>
+
 
 # 👋 Intro
-> 안녕하세요! **"문제해결을 위한 방안으로, 프로그래밍을 선택한"** 김희주입니다.
+> 안녕하세요! **"문제해결을 위한 방안으로, 프로그래밍을 선택한"** 김희주입니다.</br>
 > 6개월간 Java풀스택 과정을 통해, 백엔드 개발자 역량을 길렀습니다.
 > 꾸준히 공부하면서 발전하는 모습 보여드리겠습니다.
 
 </br>
+
+# 🧑🏻‍💻 Profile
+> 1994년 1월 19일</br>
+> beetnalhee@gmail.com</br>
+> 홍익대학교 디자인경영융합학부 졸업</br>
+
+</br>
+
+# 📚 기술 스택 Stacks
+> Java JavaScript Spring Springboot </br>
+> Maven Gradle MyBatis</br>
+> HTML CSS </br>
+> Oracle </br>
+> Git</br>
+ </br>
+
+# 💳 자격증 **Certificate**
+> 정보처리기사 필기합격</br>
+> CPPG(개인정보관리사)</br>
+> 그래픽기술자격GTQ 1급</br>
+> 컴퓨터활용능력 2급</br>
+> 워드프로세서1급</br>
+</br>
+
+# 🌏 어학 
+> OPIc – IH등급</br>
+> TOEIC - 905점</br>
+</br>
+
 
 # 🗂 Projects
 > 프로젝트를 모아놓았으며, 상세보기클릭을 통해 각 프로젝트로 이동할 수 있습니다.
