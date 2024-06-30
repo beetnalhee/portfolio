@@ -11,10 +11,10 @@
 
 </br>
 
-# 🧑🏻‍💻 Profile
-> 1994년 1월 19일</br>
-> beetnalhee@gmail.com</br>
-> 홍익대학교 디자인경영융합학부 졸업</br>
+# 👨‍💻 Profile
+> 📅 1994년 1월 19일</br>
+> ✉ beetnalhee@gmail.com</br>
+> 🏫 홍익대학교 디자인경영융합학부 졸업</br>
 
 </br>
 
