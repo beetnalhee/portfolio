@@ -24,7 +24,7 @@
 > Maven Gradle MyBatis</br>
 > HTML CSS </br>
 > Oracle </br>
-> Git</br>
+> Git Github</br>
  </br>
 
 # 💳 자격증 **Certificate**
