@@ -56,7 +56,7 @@
 >  * 역할 : 채팅 기능 구현
 > ### Back-end
 >  * Language : Java
->  * Skill : Spring-boot, Spring, Thymeleaf, Mybatis, Oracle(sql), junit, WebSocket
+>  * Skill : Spring-boot, Spring, Thymeleaf, Mybatis, SQL(oracle), junit, WebSocket
 > ### Front-end
 >  * Language : JavaScript
 > 
@@ -68,9 +68,9 @@
 >  * 역할 : 리뷰기능 구현, db구축 
 > ### Back-end
 >  * Language : Java
->  * Skill : ApacheTomcat, Oracle(sql)
+>  * Skill : jsp, ApacheTomcat, SQL(oracle)
 > ### Front-end
->  * Language : JavaScript, jsp
+>  * Language : JavaScript
 > 
 [프로젝트 상세보기](https://github.com/beetnalhee/mealimeter_shopping_mall "mealimeter")
 
@@ -79,7 +79,7 @@
 >  * 개발기간 : 2024.04.01 ~ 04.03. (3일)
 > ### Back-end
 >  * Language : Java
->  * Skill : jsp, ApacheTomcat, sql(oracle)
+>  * Skill : jsp, ApacheTomcat, SQL(oracle)
 > ### Front-end
 >  * Language : JavaScript
 >  * Skill : bootstrap
@@ -98,7 +98,7 @@
 ## 5. Things to do 리스트 
 > 할 일 리스트 추가, 삭제, 수정 기능 구현
 >  * 개발기간 : 2024.04.26 ~ 04.28. (3일)
->  * Language : Java
+>  * Language : JavaScript
 >  * Skill : React
 >
 > [프로젝트 상세보기](https://github.com/beetnalhee/TODO  "TODO_list")
